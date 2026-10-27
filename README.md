@@ -1,6 +1,6 @@
 # Hi, I'm Akhil Binjola 👋
 
-**Data Scientist (fresher)** based in Rudrapur, Uttarakhand, India. I build end-to-end data projects in Python, SQL and Power BI, and I'm pursuing an MCA in Artificial Intelligence & Machine Learning (online).
+**Data Scientist** based in Rudrapur, Uttarakhand, India. I build end-to-end data projects in Python, SQL and Power BI, and I'm pursuing an MCA in Artificial Intelligence & Machine Learning.
 
 I'm looking for an entry-level Data Analyst or Data Scientist role where I can turn data into decisions.
 
